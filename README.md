@@ -1,4 +1,4 @@
-# tools-and-data
+# diodata
 Tools, data, and contact lists for The disclose.io Project. This files are community-powered and open source, so contributions and corrections via PR are encouraged!
 
 ## Current files
