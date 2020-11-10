@@ -1,0 +1,45 @@
+[
+  {
+    "program_name": "bbc.com",
+    "policy_url": "https://www.bbc.com/backstage/security-disclosure-policy/",
+    "contact_url": "mailto:security@bbc.co.uk",
+    "hiring": "https://careerssearch.bbc.co.uk/jobs/search"
+  },
+  {
+    "program_name": "livejasmin.com",
+    "contact_url": "mailto:itsecuritypublic@doclerholding.com",
+    "hiring": "https://doclerholding.recruitee.com/",
+    "preferred_languages": "en"
+  },
+  {
+    "program_name": "google.co.in",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "whatsapp.com",
+    "policy_url": "https://www.facebook.com/whitehat/info/",
+    "contact_url": "https://www.facebook.com/whitehat/report/",
+    "hall_of_fame": "https://www.facebook.com/whitehat/thanks/",
+    "hiring": "https://www.facebook.com/careers/areas-of-work/security/"
+  },
+  {
+    "program_name": "reddit.com",
+    "policy_url": "https://www.reddit.com/wiki/whitehat",
+    "contact_url": "mailto:security@reddit.com",
+    "hall_of_fame": "https://www.reddit.com/trophies",
+    "hiring": "https://boards.greenhouse.io/reddit",
+    "securitytxt_url": "https://www.reddit.com/.well-known/security.txt",
+    "preferred_languages": "en"
+  },
+  {
+    "program_name": "facebook.com",
+    "policy_url": "https://www.facebook.com/whitehat/info/",
+    "contact_url": "https://www.facebook.com/whitehat/report/",
+    "hall_of_fame": "https://www.facebook.com/whitehat/thanks/",
+    "hiring": "https://www.facebook.com/careers/teams/security/"
+  }
+]

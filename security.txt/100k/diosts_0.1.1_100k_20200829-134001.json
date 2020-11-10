@@ -1,0 +1,1705 @@
+[
+  {
+    "program_name": "reddit.com",
+    "policy_url": "https://www.reddit.com/wiki/whitehat",
+    "contact_url": "mailto:security@reddit.com",
+    "hall_of_fame": "https://www.reddit.com/trophies",
+    "hiring": "https://boards.greenhouse.io/reddit",
+    "securitytxt_url": "https://www.reddit.com/.well-known/security.txt",
+    "preferred_languages": "en"
+  },
+  {
+    "program_name": "google.com.hk",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "google.com",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "facebook.com",
+    "policy_url": "https://www.facebook.com/whitehat/info/",
+    "contact_url": "https://www.facebook.com/whitehat/report/",
+    "hall_of_fame": "https://www.facebook.com/whitehat/thanks/",
+    "hiring": "https://www.facebook.com/careers/teams/security/"
+  },
+  {
+    "program_name": "livejasmin.com",
+    "contact_url": "mailto:itsecuritypublic@doclerholding.com",
+    "hiring": "https://doclerholding.recruitee.com/",
+    "preferred_languages": "en"
+  },
+  {
+    "program_name": "google.co.in",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "google.es",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "google.ru",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "google.fr",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "google.com.sg",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "github.com",
+    "policy_url": "https://bounty.github.com",
+    "contact_url": "https://hackerone.com/github",
+    "hall_of_fame": "https://bounty.github.com/bounty-hunters.html",
+    "securitytxt_url": "https://github.com/.well-known/security.txt",
+    "preferred_languages": "en"
+  },
+  {
+    "program_name": "google.it",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "grammarly.com",
+    "policy_url": "https://hackerone.com/grammarly",
+    "contact_url": "security@grammarly.com",
+    "hall_of_fame": "https://hackerone.com/grammarly/thanks",
+    "hiring": "https://www.grammarly.com/jobs/"
+  },
+  {
+    "program_name": "tumblr.com",
+    "policy_url": "https://hackerone.com/automattic",
+    "contact_url": "https://hackerone.com/automattic/reports/new",
+    "hall_of_fame": "https://hackerone.com/automattic/thanks",
+    "hiring": "https://www.tumblr.com/jobs"
+  },
+  {
+    "program_name": "google.com.tw",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "google.com.mx",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "google.co.uk",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "google.cn",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "dropbox.com",
+    "policy_url": "https://hackerone.com/dropbox/",
+    "contact_url": "https://hackerone.com/dropbox/",
+    "hall_of_fame": "https://hackerone.com/dropbox/thanks",
+    "hiring": "https://www.dropbox.com/jobs/search?q=security"
+  },
+  {
+    "program_name": "bbc.co.uk",
+    "policy_url": "https://www.bbc.com/backstage/security-disclosure-policy/",
+    "contact_url": "mailto:security@bbc.co.uk",
+    "hiring": "https://careerssearch.bbc.co.uk/jobs/search"
+  },
+  {
+    "program_name": "linkedin.com",
+    "policy_url": "https://www.linkedin.com/help/linkedin/answer/62924",
+    "contact_url": "https://www.linkedin.com/help/linkedin/answer/62924",
+    "pgp_key": "https://www.linkedin.com/help/linkedin/answer/79676",
+    "securitytxt_url": "https://www.linkedin.com/.well-known/security.txt"
+  },
+  {
+    "program_name": "vimeo.com",
+    "policy_url": "https://hackerone.com/vimeo/",
+    "contact_url": "https://hackerone.com/vimeo/reports/new/",
+    "hall_of_fame": "https://hackerone.com/vimeo/thanks/",
+    "hiring": "https://vimeo.com/jobs#engineering"
+  },
+  {
+    "program_name": "google.com.tr",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "google.co.jp",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "theguardian.com",
+    "contact_url": "appsec@theguardian.com",
+    "pgp_key": "https://www.theguardian.com/pgp/PublicKeys/Guardian%20Application-Security.pub.txt",
+    "hiring": "https://workforus.theguardian.com/index.php/search-jobs-and-apply/?search_paths%5B%5D=\u0026query=information+security\u0026submit=Search+Jobs",
+    "securitytxt_url": "https://www.theguardian.com/.well-known/security.txt"
+  },
+  {
+    "program_name": "google.de",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "unsplash.com",
+    "contact_url": "support@unsplash.com",
+    "hall_of_fame": "https://unsplash.com/security",
+    "pgp_key": "https://keybase.io/elcuervo/pgp_keys.asc"
+  },
+  {
+    "program_name": "padlet.com",
+    "contact_url": "mailto:hello@padlet.com",
+    "hiring": "https://padlet.jobs"
+  },
+  {
+    "program_name": "bbc.com",
+    "policy_url": "https://www.bbc.com/backstage/security-disclosure-policy/",
+    "contact_url": "mailto:security@bbc.co.uk",
+    "hiring": "https://careerssearch.bbc.co.uk/jobs/search"
+  },
+  {
+    "program_name": "google.com.br",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "whatsapp.com",
+    "policy_url": "https://www.facebook.com/whitehat/info/",
+    "contact_url": "https://www.facebook.com/whitehat/report/",
+    "hall_of_fame": "https://www.facebook.com/whitehat/thanks/",
+    "hiring": "https://www.facebook.com/careers/areas-of-work/security/"
+  },
+  {
+    "program_name": "wix.com",
+    "contact_url": "mailto:security-report@wix.com"
+  },
+  {
+    "program_name": "google.com.sa",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "google.com.ar",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "google.com.eg",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "walmart.com",
+    "policy_url": "https://corporate.walmart.com/privacy-security",
+    "contact_url": "https://corporate.walmart.com/article/responsible-disclosure-policy",
+    "hiring": "https://careers.walmart.com",
+    "securitytxt_url": "https://walmart.com/.well-known/security.txt",
+    "preferred_languages": "en"
+  },
+  {
+    "program_name": "google.co.th",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "paypal.com",
+    "policy_url": "https://hackerone.com/paypal?view_policy=true",
+    "contact_url": "https://hackerone.com/paypal",
+    "hiring": "https://jobsearch.paypal-corp.com/search?keywords=Cyber",
+    "securitytxt_url": "https://www.paypalobjects.com/.well-known/security.txt"
+  },
+  {
+    "program_name": "ebay-kleinanzeigen.de",
+    "policy_url": "https://app.zerocopter.com/en/rd/25b4c77d-2872-4637-bb9c-2dac863bd77a",
+    "contact_url": "https://app.zerocopter.com/en/rd/25b4c77d-2872-4637-bb9c-2dac863bd77a",
+    "hiring": "https://jobs.ebayclassifiedsgroup.com/ebay-kleinanzeigen"
+  },
+  {
+    "program_name": "deepl.com",
+    "contact_url": "mailto:security@deepl.com",
+    "pgp_key": "https://www.deepl.com/gpg/security-at-deepl-pubkey-F22B8D41.txt",
+    "securitytxt_url": "https://www.deepl.com/.well-known/security.txt",
+    "preferred_languages": "en"
+  },
+  {
+    "program_name": "google.ca",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "chess.com",
+    "contact_url": "https://support.chess.com/article/346-contact-us"
+  },
+  {
+    "program_name": "adp.com",
+    "policy_url": "https://www.adp.com/about-adp/data-security.aspx",
+    "contact_url": "mailto:vulnerabilityreporting@ADP.com",
+    "hiring": "https://jobs.adp.com/",
+    "securitytxt_url": "https://www.adp.com/.well-known/security.txt",
+    "preferred_languages": "en"
+  },
+  {
+    "program_name": "feedly.com",
+    "contact_url": "mailto:security@feedly.com"
+  },
+  {
+    "program_name": "investopedia.com",
+    "contact_url": "mailto:security@dotdash.com",
+    "preferred_languages": "en"
+  },
+  {
+    "program_name": "atlassian.com",
+    "policy_url": "https://www.atlassian.com/trust/security/report-a-vulnerability",
+    "contact_url": "https://www.atlassian.com/trust/security/report-a-vulnerability",
+    "pgp_key": "https://security-static.prod.atl-paas.net/atlassian-security-public.asc",
+    "hiring": "https://www.atlassian.com/company/careers/all-jobs?team=Security",
+    "securitytxt_url": "https://www.atlassian.com/.well-known/security.txt",
+    "preferred_languages": "en"
+  },
+  {
+    "program_name": "google.pl",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "google.co.id",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "allegro.pl",
+    "policy_url": "https://hackerone.com/allegro?view_policy=true",
+    "contact_url": "https://hackerone.com/allegro/reports/new",
+    "hall_of_fame": "https://hackerone.com/allegro/hacktivity",
+    "hiring": "https://allegro.tech/jobs/"
+  },
+  {
+    "program_name": "line.me",
+    "policy_url": "https://bugbounty.linecorp.com/en/terms_of_use/",
+    "contact_url": "https://bugbounty.linecorp.com/en/apply/",
+    "hall_of_fame": "https://bugbounty.linecorp.com/en/halloffame/",
+    "hiring": "https://linecorp.com/ja/career/position/498"
+  },
+  {
+    "program_name": "google.com.au",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "google.co.kr",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "ensonhaber.com",
+    "contact_url": "mailto:admin@ensonhaber.com"
+  },
+  {
+    "program_name": "zoho.com",
+    "policy_url": "https://bugbounty.zoho.com/bb/info#guide",
+    "contact_url": "https://bugbounty.zoho.com/bb/#/submitbug",
+    "hall_of_fame": "https://bugbounty.zoho.com/bb/info#hof"
+  },
+  {
+    "program_name": "orange.fr",
+    "contact_url": "security.fr@orange.com",
+    "pgp_key": "https://www.orange.fr/.well-known/securityfr-pubkey.asc",
+    "hiring": "https://orange.jobs/"
+  },
+  {
+    "program_name": "patreon.com",
+    "contact_url": "mailto:security@patreon.com",
+    "pgp_key": "https://www.patreon.com/security_pgp_key.asc",
+    "hiring": "https://www.patreon.com/careers"
+  },
+  {
+    "program_name": "google.com.vn",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "google.gr",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "google.co.ve",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "google.com.ua",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "shopify.com",
+    "policy_url": "https://hackerone.com/shopify",
+    "contact_url": "https://www.shopify.com/security-response",
+    "hall_of_fame": "https://hackerone.com/shopify/thanks",
+    "pgp_key": "https://www.shopify.com/shopify-security.pub",
+    "hiring": "https://www.shopify.com/careers"
+  },
+  {
+    "program_name": "bitly.com",
+    "contact_url": "security@bitly.com",
+    "pgp_key": "https://bitly.com/security_pgp.txt"
+  },
+  {
+    "program_name": "duolingo.com",
+    "policy_url": "https://www.duolingo.com/privacy",
+    "contact_url": "https://www.duolingo.com/privacy",
+    "hiring": "https://www.duolingo.com/careers"
+  },
+  {
+    "program_name": "doubleclick.net",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "google.dz",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "pixiv.net",
+    "contact_url": "https://hackerone.com/pixiv",
+    "hall_of_fame": "https://hackerone.com/pixiv/thanks",
+    "hiring": "https://recruit.jobcan.jp/pixiv/show/b001/19024"
+  },
+  {
+    "program_name": "trustpilot.com",
+    "contact_url": "https://hackerone.com/trustpilot"
+  },
+  {
+    "program_name": "google.com.pk",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "google.cl",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "google.az",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "google.be",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "qualtrics.com",
+    "policy_url": "https://www.qualtrics.com/platform/security/vulnerability-disclosure/",
+    "contact_url": "platform-security@qualtrics.com",
+    "hall_of_fame": "https://www.qualtrics.com/platform/security/hall-of-fame/",
+    "hiring": "https://www.qualtrics.com/careers/",
+    "preferred_languages": "en"
+  },
+  {
+    "program_name": "google.com.pe",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "google.ro",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "google.co.za",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "google.com.co",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "themeforest.net",
+    "policy_url": "https://webuild.envato.com/helpful-hacker/",
+    "contact_url": "https://help.market.envato.com/hc/en-us/requests/new?ticket_form_id=38490",
+    "pgp_key": "https://webuild.envato.com/pgp.txt"
+  },
+  {
+    "program_name": "biblegateway.com",
+    "contact_url": "vdp@harpercollins.com",
+    "preferred_languages": "en"
+  },
+  {
+    "program_name": "protonmail.com",
+    "policy_url": "https://protonmail.com/blog/protonmail-bug-bounty-program/",
+    "contact_url": "mailto:security@protonmail.com",
+    "hall_of_fame": "https://protonmail.com/blog/protonmail-security-contributors/",
+    "pgp_key": "https://protonmail.com/security@protonmail.com.txt",
+    "hiring": "https://protonmail.com/careers"
+  },
+  {
+    "program_name": "google.com.my",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "google.ch",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "ionos.com",
+    "contact_url": "mailto:security@ionos.com",
+    "pgp_key": "https://keys.openpgp.org/search?q=security%40ionos.com"
+  },
+  {
+    "program_name": "google.nl",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "flickr.com",
+    "contact_url": "https://hackerone.com/flickr"
+  },
+  {
+    "program_name": "get-express-vpn.online",
+    "contact_url": "https://www.expressvpn.com/bug-bounty",
+    "hall_of_fame": "https://www.expressvpn.com/bug-bounty/acknowledgment",
+    "hiring": "https://www.expressvpn.com/jobs",
+    "securitytxt_url": "https://www.expressvpn.com/.well-known/security.txt"
+  },
+  {
+    "program_name": "binance.com",
+    "policy_url": "https://bugcrowd.com/binance",
+    "contact_url": "security@binance.com",
+    "hall_of_fame": "https://bugcrowd.com/binance/hall-of-fame",
+    "hiring": "https://www.binance.com/Careers.html"
+  },
+  {
+    "program_name": "atlassian.net",
+    "policy_url": "https://www.atlassian.com/trust/security/report-a-vulnerability",
+    "contact_url": "https://www.atlassian.com/trust/security/report-a-vulnerability",
+    "pgp_key": "https://security-static.prod.atl-paas.net/atlassian-security-public.asc",
+    "hiring": "https://www.atlassian.com/company/careers/all-jobs?team=Security",
+    "securitytxt_url": "https://www.atlassian.com/.well-known/security.txt",
+    "preferred_languages": "en"
+  },
+  {
+    "program_name": "google.pt",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "marriott.com",
+    "policy_url": "https://hackerone.com/marriott",
+    "contact_url": "mailto:security@marriott.com",
+    "hall_of_fame": "https://hackerone.com/marriott/thanks"
+  },
+  {
+    "program_name": "google.ae",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "realestate.com.au",
+    "policy_url": "https://www.rea-group.com/security",
+    "contact_url": "security-vulnerability@rea-group.com",
+    "hall_of_fame": "https://www.rea-group.com/blog/responsible-vulnerability-disclosure-program-hall-of-fame/",
+    "pgp_key": "https://keybase.io/reagroupsecurity/pgp_keys.asc?fingerprint=9bbb1f1e7eeb0684a224c8e72880b6418d107e44",
+    "hiring": "https://www.rea-group.com/careers/jobs/",
+    "securitytxt_url": "https://www.realestate.com.au/security.txt",
+    "preferred_languages": "en"
+  },
+  {
+    "program_name": "google.at",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "auth0.com",
+    "policy_url": "https://auth0.com/responsible-disclosure-policy",
+    "contact_url": "https://auth0.com/responsible-disclosure-policy",
+    "pgp_key": "https://cdn.auth0.com/website/security/pgp/171A6588004C96B6A8E8A130B54BE3C0D18F0FE7.pub",
+    "hiring": "https://auth0.com/careers/positions?areas=Security",
+    "securitytxt_url": "https://auth0.com/.well-known/security.txt"
+  },
+  {
+    "program_name": "drive2.ru",
+    "contact_url": "mailto:security@drive2.ru",
+    "pgp_key": "https://www.drive2.ru/assets/dynamic/pgp-key.txt"
+  },
+  {
+    "program_name": "jetbrains.com",
+    "policy_url": "https://www.jetbrains.com/legal/terms/coordinated-disclosure.html",
+    "contact_url": "security@jetbrains.com"
+  },
+  {
+    "program_name": "hepsiburada.com",
+    "contact_url": "security@hepsiburada.com",
+    "securitytxt_url": "https://www.hepsiburada.com/.well-known/security.txt",
+    "preferred_languages": "en,tr"
+  },
+  {
+    "program_name": "usaa.com",
+    "policy_url": "https://bugcrowd.com/usaa",
+    "contact_url": "https://bugcrowd.com/usaa/report",
+    "hall_of_fame": "https://bugcrowd.com/usaa/hall-of-fame",
+    "pgp_key": "https://www.usaa.com/gpg_disclosure_public.txt",
+    "hiring": "https://www.usaajobs.com/search-jobs/information%20security/",
+    "securitytxt_url": "https://www.usaa.com/.well-known/security.txt",
+    "preferred_languages": "en"
+  },
+  {
+    "program_name": "plex.tv",
+    "policy_url": "https://support.plex.tv/articles/reporting-security-issues/",
+    "contact_url": "security@plex.tv",
+    "pgp_key": "https://plex-security.s3.amazonaws.com/plex-security-public-key.asc",
+    "preferred_languages": "en"
+  },
+  {
+    "program_name": "edmodo.com",
+    "contact_url": "https://support.edmodo.com/hc/en-us/articles/360035475733"
+  },
+  {
+    "program_name": "auspost.com.au",
+    "policy_url": "https://auspost.com.au/about-us/about-our-site/responsible-disclosure",
+    "contact_url": "mailto:security@auspost.com.au",
+    "hall_of_fame": "https://auspost.com.au/about-us/about-our-site/responsible-disclosure",
+    "pgp_key": "https://auspost.com.au/.well-known/pgp-key.txt",
+    "hiring": "https://auspost.com.au/jobs",
+    "securitytxt_url": "https://auspost.com.au/.well-known/security.txt",
+    "preferred_languages": "en"
+  },
+  {
+    "program_name": "google.hu",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "loom.com",
+    "contact_url": "mailto:security@loom.com",
+    "preferred_languages": "en"
+  },
+  {
+    "program_name": "google.co.il",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "hotels.com",
+    "policy_url": "https://www.expediagroup.com/about/privacy-data-handling-requirements/",
+    "contact_url": "RespDisc@expedia.com",
+    "hiring": "https://lifeatexpedia.com/"
+  },
+  {
+    "program_name": "google.com.ph",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "thebalancecareers.com",
+    "contact_url": "mailto:security@dotdash.com",
+    "preferred_languages": "en"
+  },
+  {
+    "program_name": "google.cz",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "lifewire.com",
+    "contact_url": "mailto:security@dotdash.com",
+    "preferred_languages": "en"
+  },
+  {
+    "program_name": "issuu.com",
+    "policy_url": "https://issuu.com/responsible-disclosure",
+    "contact_url": "mailto:security@issuu.com",
+    "hall_of_fame": "https://issuu.com/responsible-disclosure#hall-of-fame"
+  },
+  {
+    "program_name": "forgeofempires.com",
+    "contact_url": "mailto:security@innogames.com",
+    "pgp_key": "https://www.innogames.com/pgp-key.txt"
+  },
+  {
+    "program_name": "envato.com",
+    "policy_url": "https://webuild.envato.com/helpful-hacker/",
+    "contact_url": "https://help.market.envato.com/hc/en-us/requests/new?ticket_form_id=38490",
+    "pgp_key": "https://webuild.envato.com/pgp.txt"
+  },
+  {
+    "program_name": "google.co.ma",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "cleartax.in",
+    "contact_url": "mailto:security-reports@cleartax.in"
+  },
+  {
+    "program_name": "eset.com",
+    "policy_url": "https://www.eset.com/int/security-vulnerability-reporting/",
+    "contact_url": "https://app.hacktrophy.com",
+    "preferred_languages": "en"
+  },
+  {
+    "program_name": "chip.de",
+    "policy_url": "https://www.burda-forward.de/en/security/",
+    "contact_url": "mailto:security@burda-forward.de",
+    "pgp_key": "https://www.burda-forward.de/files/user_upload/Public_PGP_Key.asc",
+    "hiring": "https://www.burda-forward.de/en/career/jobs/"
+  },
+  {
+    "program_name": "google.se",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "google.sk",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "google.lk",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "vistaprint.com",
+    "contact_url": "bugbounty@cimpress.com"
+  },
+  {
+    "program_name": "bol.com",
+    "policy_url": "https://www.bol.com/nl/m/algemeen/kwetsbaarheid-melden/subject/64209061/index.html",
+    "contact_url": "rd@bol.com",
+    "pgp_key": "https://www.bol.com/nl/cms/cms/rd_bol_com_pgp_public_key.asc"
+  },
+  {
+    "program_name": "google.com.bd",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "google.ie",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "concursolutions.com",
+    "contact_url": "https://bugcrowd.com/concur"
+  },
+  {
+    "program_name": "southwest.com",
+    "policy_url": "https://www.southwest.com/security-researchers.txt",
+    "contact_url": "mailto:securityreport@wnco.com",
+    "pgp_key": "https://www.southwest.com/pgp_key.txt",
+    "securitytxt_url": "https://www.southwest.com/.well-known/security.txt",
+    "preferred_languages": "en"
+  },
+  {
+    "program_name": "codecanyon.net",
+    "policy_url": "https://webuild.envato.com/helpful-hacker/",
+    "contact_url": "https://help.market.envato.com/hc/en-us/requests/new?ticket_form_id=38490",
+    "pgp_key": "https://webuild.envato.com/pgp.txt"
+  },
+  {
+    "program_name": "hotukdeals.com",
+    "contact_url": "security@hotukdeals.com",
+    "securitytxt_url": "https://www.hotukdeals.com/.well-known/security.txt",
+    "preferred_languages": "en"
+  },
+  {
+    "program_name": "google.kz",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "deezer.com",
+    "policy_url": "https://yeswehack.com/programs/deezer-bug-bounty-program-2019",
+    "contact_url": "https://yeswehack.com/programs/deezer-bug-bounty-program-2019",
+    "hiring": "https://www.deezerjobs.com"
+  },
+  {
+    "program_name": "myfitnesspal.com",
+    "contact_url": "product-security@underarmour.com",
+    "hall_of_fame": "https://account.underarmour.com/terms-and-conditions",
+    "pgp_key": "http://pgp.mit.edu/pks/lookup?op=get\u0026search=0xFDF5340751153CBE"
+  },
+  {
+    "program_name": "mydealz.de",
+    "contact_url": "security@mydealz.de",
+    "securitytxt_url": "https://www.mydealz.de/.well-known/security.txt",
+    "preferred_languages": "en"
+  },
+  {
+    "program_name": "spreadshirt.com",
+    "contact_url": "mailto:security@spreadshirt.net",
+    "pgp_key": "https://assets.spreadshirt.net/security/publickey.asc"
+  },
+  {
+    "program_name": "google.bg",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "doctolib.fr",
+    "contact_url": "mailto:doctolib.security@protonmail.com",
+    "pgp_key": "https://doctolib.com/pgp-key.txt",
+    "hiring": "https://about.doctolib.com/jobs"
+  },
+  {
+    "program_name": "boardgamegeek.com",
+    "policy_url": "https://boardgamegeek.com/responsible_disclosure_policy",
+    "contact_url": "security@boardgamegeek.com",
+    "pgp_key": "https://boardgamegeek.com/download/pgp.txt"
+  },
+  {
+    "program_name": "ameli.fr",
+    "policy_url": "https://assurancemaladiesec.github.io/abuse/reporting/",
+    "contact_url": "mailto:abuse@assurance-maladie.fr",
+    "hall_of_fame": "https://assurancemaladiesec.github.io/abuse/thanks/",
+    "pgp_key": "https://raw.githubusercontent.com/AssuranceMaladieSec/abuse/master/abuse-gpg-public-key.txt",
+    "preferred_languages": "fr,en"
+  },
+  {
+    "program_name": "xing.com",
+    "policy_url": "https://www.xing.com/rfc-2350.txt",
+    "contact_url": "mailto:security-reports@new-work.se",
+    "pgp_key": "https://www.xing.com/0xE3AC29F21ED525CE.asc",
+    "hiring": "https://www.xing.com/jobs/search?keywords=%22NEW%20WORK%20SE%22%20Security"
+  },
+  {
+    "program_name": "zaiko.io",
+    "contact_url": "security@zaiko.io",
+    "securitytxt_url": "https://zaiko.io/.well-known/security.txt",
+    "preferred_languages": "en"
+  },
+  {
+    "program_name": "thoughtco.com",
+    "contact_url": "mailto:security@dotdash.com",
+    "preferred_languages": "en"
+  },
+  {
+    "program_name": "google.rs",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "lego.com",
+    "policy_url": "https://www.lego.com/legal/notices-and-policies/responsible-disclosure-policy/",
+    "contact_url": "mailto:whitehat@lego.com",
+    "securitytxt_url": "https://www.lego.com/.well-known/security.txt",
+    "preferred_languages": "en"
+  },
+  {
+    "program_name": "google.hr",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "elvenar.com",
+    "contact_url": "mailto:security@innogames.com",
+    "pgp_key": "https://www.innogames.com/pgp-key.txt"
+  },
+  {
+    "program_name": "google.iq",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "lichess.org",
+    "policy_url": "https://lichess.org/contact#help-security",
+    "contact_url": "mailto:contact@lichess.org",
+    "pgp_key": "https://lichess.org/.well-known/gpg.asc",
+    "securitytxt_url": "https://lichess.org/.well-known/security.txt",
+    "preferred_languages": "en"
+  },
+  {
+    "program_name": "fanfiction.net",
+    "contact_url": "security@fictionpress.com"
+  },
+  {
+    "program_name": "google.com.do",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "linode.com",
+    "policy_url": "https://hackerone.com/linode",
+    "contact_url": "disclosure@linode.com",
+    "pgp_key": "https://keybase.io/linodesecurity/pgp_keys.asc",
+    "hiring": "https://linode.com/careers"
+  },
+  {
+    "program_name": "google.dk",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "google.com.ly",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "nrk.no",
+    "policy_url": "https://info.nrk.no/hjem/responsible-disclosure-policy/",
+    "contact_url": "mailto:IT-Sikkerhetsgruppe@nrk.no",
+    "hall_of_fame": "https://info.nrk.no/hjem/responsible-disclosure-policy/#security-hall-of-fame",
+    "securitytxt_url": "https://www.nrk.no/.well-known/security.txt",
+    "preferred_languages": "no,en"
+  },
+  {
+    "program_name": "sprint.com",
+    "contact_url": "web_security@sprint.com"
+  },
+  {
+    "program_name": "nextdoor.com",
+    "contact_url": "https://hackerone.com/nextdoor",
+    "hiring": "https://nextdoor.com/jobs",
+    "preferred_languages": "en"
+  },
+  {
+    "program_name": "bitdefender.com",
+    "policy_url": "https://www.bitdefender.com/bitdefender_vulnerability_disclosure_program.html",
+    "contact_url": "mailto:bugbounty@bitdefender.com",
+    "hall_of_fame": "https://www.bitdefender.com/site/view/bug-bounty-hall-of-fame.html",
+    "pgp_key": "https://www.bitdefender.com/media/materials/bug_bounty/bugbounty_bitdefender.com_public.asc"
+  },
+  {
+    "program_name": "ryanair.com",
+    "contact_url": "wh_is_disclosure@ryanair.com",
+    "pgp_key": "https://www.ryanair.com/.well-known/public_key.asc"
+  },
+  {
+    "program_name": "bitbucket.org",
+    "policy_url": "https://www.atlassian.com/trust/security/report-a-vulnerability",
+    "contact_url": "https://www.atlassian.com/trust/security/report-a-vulnerability",
+    "pgp_key": "https://security-static.prod.atl-paas.net/atlassian-security-public.asc",
+    "hiring": "https://www.atlassian.com/company/careers/all-jobs?team=Security",
+    "securitytxt_url": "https://www.atlassian.com/.well-known/security.txt",
+    "preferred_languages": "en"
+  },
+  {
+    "program_name": "drugs.com",
+    "policy_url": "https://www.drugs.com/support/responsible-disclosure-policy.html",
+    "contact_url": "mailto:security@drugs.com",
+    "hall_of_fame": "https://www.drugs.com/support/security-hall-of-fame.html",
+    "pgp_key": "https://www.drugs.com/support/drugscom-security.pub"
+  },
+  {
+    "program_name": "creditkarma.com",
+    "policy_url": "https://bugcrowd.com/creditkarma",
+    "contact_url": "https://www.creditkarma.com/about/security",
+    "pgp_key": "https://pgp.mit.edu/pks/lookup?search=0x68E6E06D",
+    "hiring": "https://www.creditkarma.com/careers"
+  },
+  {
+    "program_name": "trademe.co.nz",
+    "contact_url": "sitesecurity@trademe.co.nz",
+    "pgp_key": "http://keys.gnupg.net/pks/lookup?op=get\u0026search=0xB27A5B8A08751AC7"
+  },
+  {
+    "program_name": "google.co.nz",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "frontapp.com",
+    "contact_url": "security@frontapp.com",
+    "pgp_key": "https://frontapp.com/security/publickey.txt"
+  },
+  {
+    "program_name": "razorpay.com",
+    "contact_url": "security@razorpay.com",
+    "hiring": "https://razorpay.com/jobs/"
+  },
+  {
+    "program_name": "rte.ie",
+    "contact_url": "mailto:security@rte.ie"
+  },
+  {
+    "program_name": "google.lt",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "thespruce.com",
+    "contact_url": "mailto:security@dotdash.com",
+    "preferred_languages": "en"
+  },
+  {
+    "program_name": "snov.io",
+    "contact_url": "admin@snov.io"
+  },
+  {
+    "program_name": "tripsavvy.com",
+    "contact_url": "mailto:security@dotdash.com",
+    "preferred_languages": "en"
+  },
+  {
+    "program_name": "google.com.ec",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "ionos.es",
+    "contact_url": "mailto:security@ionos.com",
+    "pgp_key": "https://keys.openpgp.org/search?q=security%40ionos.com"
+  },
+  {
+    "program_name": "ui.com",
+    "policy_url": "https://ui.com/security/",
+    "contact_url": "security@ui.com",
+    "pgp_key": "https://ui.com/support/security-rewards/pgp-key/"
+  },
+  {
+    "program_name": "focus.de",
+    "policy_url": "https://www.burda-forward.de/en/security/",
+    "contact_url": "mailto:security@burda-forward.de",
+    "pgp_key": "https://www.burda-forward.de/files/user_upload/Public_PGP_Key.asc",
+    "hiring": "https://www.burda-forward.de/en/career/jobs/"
+  },
+  {
+    "program_name": "csfd.cz",
+    "policy_url": "https://www.csfd.cz/vyvojari/",
+    "contact_url": "security@csfd.cz",
+    "hall_of_fame": "https://www.csfd.cz/vyvojari/",
+    "pgp_key": "https://img.csfd.cz/documents/developers/security@csfd.cz.gpg",
+    "hiring": "https://www.csfd.cz/vyvojari/"
+  },
+  {
+    "program_name": "www.nhs.uk",
+    "contact_url": "https://www.nhs.uk/contact-us/responsible-vulnerability-disclosure/"
+  },
+  {
+    "program_name": "thebalancesmb.com",
+    "contact_url": "mailto:security@dotdash.com",
+    "preferred_languages": "en"
+  },
+  {
+    "program_name": "google.tn",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "raspberrypi.org",
+    "contact_url": "security@raspberrypi.org",
+    "pgp_key": "https://keybase.io/rpfwebteam/pgp_keys.asc?fingerprint=29ac44d10c2215ccb4d1faaec3900f01a173bb84"
+  },
+  {
+    "program_name": "google.jo",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "google.com.kw",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "ozbargain.com.au",
+    "contact_url": "https://www.ozbargain.com.au/contact"
+  },
+  {
+    "program_name": "ionos.de",
+    "contact_url": "mailto:security@ionos.com",
+    "pgp_key": "https://keys.openpgp.org/search?q=security%40ionos.com",
+    "hiring": "https://jobs.ionos.de/en/job-category/it-security-1"
+  },
+  {
+    "program_name": "compass.com",
+    "contact_url": "mailto:security@compass.com",
+    "preferred_languages": "en"
+  },
+  {
+    "program_name": "thespruceeats.com",
+    "contact_url": "mailto:security@dotdash.com",
+    "preferred_languages": "en"
+  },
+  {
+    "program_name": "digitec.ch",
+    "contact_url": "mailto:cybersecurity@digitecgalaxus.ch",
+    "preferred_languages": "de,en"
+  },
+  {
+    "program_name": "google.com.ng",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "gemius.com",
+    "contact_url": "security@gemius.com"
+  },
+  {
+    "program_name": "lunapic.com",
+    "contact_url": "https://www.lunapic.com/editor/?action=feedback"
+  },
+  {
+    "program_name": "thenorthface.com",
+    "contact_url": "TVM_OBB@vfc.com"
+  },
+  {
+    "program_name": "bahn.de",
+    "contact_url": "security-issues@deutschebahn.com",
+    "pgp_key": "https://www.deutschebahn.com/security-issues-pubkey.txt",
+    "hiring": "https://db.de/infosec-jobs"
+  },
+  {
+    "program_name": "gog.com",
+    "contact_url": "security@gog.com",
+    "pgp_key": "https://www.gog.com/pgp-key.txt"
+  },
+  {
+    "program_name": "johnlewis.com",
+    "policy_url": "https://hackerone.com/john_lewis",
+    "contact_url": "https://hackerone.com/john_lewis",
+    "preferred_languages": "en"
+  },
+  {
+    "program_name": "google.lv",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "webstaurantstore.com",
+    "contact_url": "security-reports@clarkinc.biz",
+    "pgp_key": "https://www.clarkassociatesinc.biz/security/security-reports-publickey.txt"
+  },
+  {
+    "program_name": "linecorp.com",
+    "policy_url": "https://bugbounty.linecorp.com/en/terms_of_use/",
+    "contact_url": "https://bugbounty.linecorp.com/en/apply/",
+    "hall_of_fame": "https://bugbounty.linecorp.com/en/halloffame/",
+    "hiring": "https://linecorp.com/ja/career/position/498"
+  },
+  {
+    "program_name": "google.com.qa",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "google.no",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "national-lottery.co.uk",
+    "policy_url": "https://www.national-lottery.co.uk/security",
+    "contact_url": "security@national-lottery.co.uk",
+    "preferred_languages": "en"
+  },
+  {
+    "program_name": "bit.ly",
+    "contact_url": "security@bitly.com",
+    "pgp_key": "https://bitly.com/security_pgp.txt"
+  },
+  {
+    "program_name": "google.com.cu",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "google.fi",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "fark.com",
+    "contact_url": "https://www.fark.com/feedback/error"
+  },
+  {
+    "program_name": "is.fi",
+    "contact_url": "mailto:cert@sanoma.com",
+    "preferred_languages": "en"
+  },
+  {
+    "program_name": "verywellmind.com",
+    "contact_url": "mailto:security@dotdash.com",
+    "preferred_languages": "en"
+  },
+  {
+    "program_name": "realpython.com",
+    "policy_url": "https://realpython.com/security/",
+    "contact_url": "mailto:info+security@realpython.com",
+    "hall_of_fame": "https://realpython.com/security/",
+    "preferred_languages": "en"
+  },
+  {
+    "program_name": "acronis.com",
+    "contact_url": "https://hackerone.com/acronis/",
+    "hiring": "https://www.acronis.com/en-us/careers/"
+  },
+  {
+    "program_name": "post.ch",
+    "contact_url": "security@post.ch"
+  },
+  {
+    "program_name": "parallels.com",
+    "contact_url": "security@parallels.com",
+    "preferred_languages": "en,ru"
+  },
+  {
+    "program_name": "verywellfit.com",
+    "contact_url": "mailto:security@dotdash.com",
+    "preferred_languages": "en"
+  },
+  {
+    "program_name": "computerbase.de",
+    "contact_url": "mailto:security@computerbase.de"
+  },
+  {
+    "program_name": "coda.io",
+    "contact_url": "security-reports@coda.io",
+    "pgp_key": "https://coda.io/coda-pgp-key.txt"
+  },
+  {
+    "program_name": "neuvoo.com",
+    "contact_url": "raed@neuvoo.com"
+  },
+  {
+    "program_name": "novaskin.me",
+    "policy_url": "https://hackerone.com/automattic",
+    "contact_url": "https://hackerone.com/automattic/reports/new",
+    "hall_of_fame": "https://hackerone.com/automattic/thanks",
+    "hiring": "https://www.tumblr.com/jobs"
+  },
+  {
+    "program_name": "cuisineaz.com",
+    "contact_url": "website-security@odiso.com"
+  },
+  {
+    "program_name": "fb.com",
+    "policy_url": "https://www.facebook.com/whitehat/info/",
+    "contact_url": "https://www.facebook.com/whitehat/report/",
+    "hall_of_fame": "https://www.facebook.com/whitehat/thanks/",
+    "hiring": "https://www.facebook.com/careers/teams/security/"
+  },
+  {
+    "program_name": "adex.network",
+    "policy_url": "https://www.adex.network/security-policy.txt",
+    "contact_url": "mailto:security@adex.network",
+    "pgp_key": "https://keybase.io/ivogeorgiev/pgp_keys.asc",
+    "securitytxt_url": "https://www.adex.network/.well-known/security.txt"
+  },
+  {
+    "program_name": "google.by",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "lidl.es",
+    "contact_url": "mailto:bugbounty@lidl.com",
+    "hiring": "https://jobs.lidl.de/de/index.htm"
+  },
+  {
+    "program_name": "google.co.ao",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "duosecurity.com",
+    "policy_url": "https://duo.com/about/security-and-reliability/security-response",
+    "contact_url": "psirt@duosecurity.com",
+    "pgp_key": "https://duo.com/assets/files/duosec_pgp.txt",
+    "hiring": "https://duo.com/about/careers"
+  },
+  {
+    "program_name": "23andme.com",
+    "policy_url": "https://www.23andme.com/security-report/",
+    "contact_url": "https://www.23andme.com/security-report/",
+    "hiring": "https://www.23andme.com/careers/"
+  },
+  {
+    "program_name": "juntadeandalucia.es",
+    "contact_url": "http://andaluciacert.juntadeandalucia.es"
+  },
+  {
+    "program_name": "google.com.uy",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "mikrotik.com",
+    "policy_url": "https://mikrotik.com/support",
+    "contact_url": "https://mikrotik.com/support",
+    "preferred_languages": "en"
+  },
+  {
+    "program_name": "bill.com",
+    "policy_url": "https://bugcrowd.com/bill01?preview=7a986440b1d2acd8c3e8c78e4f178faf",
+    "contact_url": "abuse@hq.bill.com",
+    "pgp_key": "https://www.bill.com/.well-known/security-pub.gpg",
+    "securitytxt_url": "https://www.bill.com/.well-known/security.txt",
+    "preferred_languages": "en"
+  },
+  {
+    "program_name": "ashemaletube.com",
+    "contact_url": "info@ashemaletube.com"
+  },
+  {
+    "program_name": "google.com.om",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "6play.fr",
+    "contact_url": "website-security@m6web.fr"
+  },
+  {
+    "program_name": "thehut.com",
+    "policy_url": "https://www.thg.com/bounty",
+    "contact_url": "mailto:securitybugs@thehutgroup.com",
+    "pgp_key": "https://www.thg.com/pgp-key.asc"
+  },
+  {
+    "program_name": "dpd.co.uk",
+    "contact_url": "it.security@dpdgroup.co.uk"
+  },
+  {
+    "program_name": "gandi.net",
+    "contact_url": "mailto:security@gandi.net",
+    "pgp_key": "security@gandi.net:https://www.gandi.net/assets/pgp/security_at_gandi_net.pgp",
+    "hiring": "https://www.welcometothejungle.co/companies/gandi",
+    "preferred_languages": "en,fr"
+  },
+  {
+    "program_name": "airtable.com",
+    "policy_url": "https://hackerone.com/airtable",
+    "contact_url": "security@airtable.com",
+    "hiring": "https://airtable.com/jobs"
+  },
+  {
+    "program_name": "trendmicro.com",
+    "contact_url": "mailto:security@trendmicro.com",
+    "hall_of_fame": "https://success.trendmicro.com/vulnerability-response#acknowledgement",
+    "pgp_key": "http://esupport.trendmicro.com/media/13888799/tm-security-pgp-key.zip"
+  },
+  {
+    "program_name": "lacoste.com",
+    "contact_url": "mailto:info.security@lacoste.com"
+  },
+  {
+    "program_name": "tv2.dk",
+    "policy_url": "https://omtv2.tv2.dk/fileadmin/user_upload/pdf/TV_2_Responsible_Disclosure.pdf",
+    "contact_url": "mailto:security@tv2.dk",
+    "pgp_key": "https://tv2.dk/.well-known/security_at_tv2_dk_openpgp_pub.txt"
+  },
+  {
+    "program_name": "c-span.org",
+    "contact_url": "mailto:acloutier@c-spanarchives.org",
+    "pgp_key": "https://www.c-span.org/orgC.txt",
+    "securitytxt_url": "https://www.c-span.org/.well-known/security.txt",
+    "preferred_languages": "en"
+  },
+  {
+    "program_name": "frandroid.com",
+    "contact_url": "mailto:baptiste@humanoid.fr",
+    "hiring": "rh@humanoid.fr"
+  },
+  {
+    "program_name": "zoho.in",
+    "policy_url": "https://bugbounty.zoho.com/bb/info#guide",
+    "contact_url": "https://bugbounty.zoho.com/bb/#/submitbug",
+    "hall_of_fame": "https://bugbounty.zoho.com/bb/info#hof"
+  },
+  {
+    "program_name": "kiwi.com",
+    "policy_url": "https://www.kiwi.com/us/pages/security",
+    "contact_url": "security@kiwi.com",
+    "pgp_key": "https://www.kiwi.com/.well-known/pgp-key.txt",
+    "hiring": "https://www.kiwi.com/jobs/"
+  },
+  {
+    "program_name": "pluralsight.com",
+    "contact_url": "security@pluralsight.com",
+    "hiring": "https://www.pluralsight.com/careers/jobs",
+    "securitytxt_url": "https://www.pluralsight.com/.well-known/security.txt",
+    "preferred_languages": "en"
+  },
+  {
+    "program_name": "daveramsey.com",
+    "contact_url": "mailto:security_awareness@daveramsey.com"
+  },
+  {
+    "program_name": "login.gov",
+    "policy_url": "https://18f.gsa.gov/vulnerability-disclosure-policy/",
+    "contact_url": "https://login.gov/contact/",
+    "hiring": "https://join.tts.gsa.gov/join/security-ops-engineer/",
+    "securitytxt_url": "https://login.gov/.well-known/security.txt",
+    "preferred_languages": "en"
+  },
+  {
+    "program_name": "ftx.com",
+    "policy_url": "https://help.ftx.com/hc/en-us/articles/360031171351",
+    "contact_url": "security@ftx.com",
+    "pgp_key": "https://ftx.com/security_pgp.txt"
+  },
+  {
+    "program_name": "joomla.org",
+    "policy_url": "https://developer.joomla.org/security.html",
+    "contact_url": "security@joomla.org",
+    "hall_of_fame": "https://developer.joomla.org/security-centre.html",
+    "pgp_key": "https://developer.joomla.org/security/gpg-keys.html",
+    "securitytxt_url": "https://www.joomla.org/.well-known/security.txt",
+    "preferred_languages": "en"
+  },
+  {
+    "program_name": "nodejs.org",
+    "policy_url": "https://nodejs.org/en/security/",
+    "contact_url": "security@nodejs.org"
+  },
+  {
+    "program_name": "google.com.mm",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "vistaprint.in",
+    "contact_url": "bugbounty@cimpress.com"
+  },
+  {
+    "program_name": "jira.com",
+    "policy_url": "https://www.atlassian.com/trust/security/report-a-vulnerability",
+    "contact_url": "https://www.atlassian.com/trust/security/report-a-vulnerability",
+    "pgp_key": "https://security-static.prod.atl-paas.net/atlassian-security-public.asc",
+    "hiring": "https://www.atlassian.com/company/careers/all-jobs?team=Security",
+    "securitytxt_url": "https://www.atlassian.com/.well-known/security.txt",
+    "preferred_languages": "en"
+  },
+  {
+    "program_name": "rentalcars.com",
+    "contact_url": "security@rentalcars.com",
+    "hiring": "http://careers.rentalcars.com/"
+  },
+  {
+    "program_name": "google.ba",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "eveonline.com",
+    "policy_url": "https://www.eveonline.com/article/responsible-disclosure-reporting-security-issues",
+    "contact_url": "mailto:security@ccpgames.com"
+  },
+  {
+    "program_name": "myprotein.com",
+    "policy_url": "https://www.thg.com/bounty",
+    "contact_url": "mailto:securitybugs@thehutgroup.com",
+    "pgp_key": "https://www.thg.com/pgp-key.asc"
+  },
+  {
+    "program_name": "sageone.co.za",
+    "contact_url": "soc@sage.com"
+  },
+  {
+    "program_name": "get-express-vpn.net",
+    "contact_url": "https://www.expressvpn.com/bug-bounty",
+    "hall_of_fame": "https://www.expressvpn.com/bug-bounty/acknowledgment",
+    "hiring": "https://www.expressvpn.com/jobs",
+    "securitytxt_url": "https://www.expressvpn.com/.well-known/security.txt"
+  },
+  {
+    "program_name": "google.com.gt",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "program_name": "jigsawplanet.com",
+    "contact_url": "hostmaster@tibo.cz"
+  },
+  {
+    "program_name": "gemius.pl",
+    "contact_url": "security@gemius.com"
+  },
+  {
+    "program_name": "lidl.de",
+    "contact_url": "mailto:bugbounty@lidl.com",
+    "hiring": "https://jobs.lidl.de/de/index.htm"
+  },
+  {
+    "program_name": "decathlon.com.tr",
+    "contact_url": "security@decathlon.com",
+    "hiring": "https://recrutement.decathlon.fr/",
+    "preferred_languages": "en-fr"
+  },
+  {
+    "program_name": "arduino.cc",
+    "policy_url": "https://www.arduino.cc/en/Main/Security",
+    "contact_url": "mailto:security@arduino.cc",
+    "pgp_key": "https://raw.githubusercontent.com/arduino/arduino-cvd-policy/master/security_at_arduino_cc-pub.asc",
+    "securitytxt_url": "https://www.arduino.cc/.well-known/security.txt",
+    "preferred_languages": "en"
+  },
+  {
+    "program_name": "guanbo.tumblr.com",
+    "policy_url": "https://hackerone.com/automattic",
+    "contact_url": "https://hackerone.com/automattic/reports/new",
+    "hall_of_fame": "https://hackerone.com/automattic/thanks",
+    "hiring": "https://www.tumblr.com/jobs"
+  },
+  {
+    "program_name": "graphicriver.net",
+    "policy_url": "https://webuild.envato.com/helpful-hacker/",
+    "contact_url": "https://help.market.envato.com/hc/en-us/requests/new?ticket_form_id=38490",
+    "pgp_key": "https://webuild.envato.com/pgp.txt"
+  }
