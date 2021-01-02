@@ -436,7 +436,8 @@ https://www.markhoodwrites.com/thanks
 https://www.meldium.com/security_faq
 https://www.mijnpartnergroep.nl/security-policy/
 https://www.mindstronghealth.com/hall-of-fame.html
-https://www.mozilla.org/en-US/security/bug-bounty/hall-of-fame/
+https://www.mozilla.org/security/bug-bounty/hall-of-fame/
+https://www.mozilla.org/security/bug-bounty/web-hall-of-fame/
 https://www.mumble.info/security
 https://www.myetherwallet.com/security-policy
 https://www.newsreview.com/gyrobase/acknowledgements
