@@ -330,6 +330,7 @@ https://olivercjcox.uk/security/hall_of_fame.php
 https://osdinitiatives.com/acknowledgments.txt
 https://pages.ebay.com/securitycenter/security_researchers_acknowledgements.html
 https://parkhub.com/thankyou.txt
+https://pidlitacka.cz/.well-known/acknowledgement.txt
 https://portal.msrc.microsoft.com/en-us/security-guidance/acknowledgments
 https://prairiemountainhealth.ca/index.php/?option=com_content\u0026view=article\u0026id=1031
 https://privatebin.info/category/reports.html
@@ -463,6 +464,7 @@ https://www.resourcespace.com/credits
 https://www.rewind.io/vulnerability-disclosure-policy
 https://www.ribose.com/security/hall_of_fame
 https://www.riskalyze.com/security-response
+https://www.rohlik.cz/.well-known/acknowledgement.txt
 https://www.saintcernin-wines.com/hall-of-fame/
 https://www.sbab.se/1/sidfotsmeny_2/sakerhet/responsible_disclosure/thanks.html
 https://www.schiphol.nl/nl/pagina/responsible-disclosure-hall-of-fame/
@@ -476,11 +478,13 @@ https://www.swisscom.ch/en/about/company/portrait/network/security/bug-bounty.ht
 https://www.synology.com/en-global/support/security
 https://www.tarsnap.com/bounty-winners.html
 https://www.telekom.com/security/acknowledgements
+https://www.telekom.sk/wiki/ostatne/program-bug-bounty#-2
 https://www.tenable.com/security/report/hall-of-fame
 https://www.teslamotors.com/about/legal#security-vulnerability-reporting-policy
 https://www.theemaillaundry.com/responsible-disclosure/
 https://www.thelevelup.com/security-response
 https://www.thexyz.com/about/hall-of-fame
+https://www.t-mobile.cz/bug-bounty/zed-slavy/
 https://www.tomtom.com/nl_nl/responsibledisclosure/
 https://www.troyhunt.com/
 https://www.tu-chemnitz.de/urz/www/server.html#thanks
