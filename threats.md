@@ -7,7 +7,7 @@ It has been clear for years that businesses have dropped ethics in favor of prof
 
 Companies: Embrace researchers who are trying to improve the security of your products. Work with them, fix vulnerabilities, and coordinate disclosure. This will go a lot farther toward building customer confidence and help avoid negative publicity.
 
-Researchers: Help protect yourself from legal issues. Visit the [EFF's Coders' Rights Projec](https://www.eff.org/issues/coders). Work with companies and respect their timelines for implementing fixes.
+Researchers: Help protect yourself from legal issues. Visit the [EFF's Coders' Rights Project](https://www.eff.org/issues/coders). Work with companies and respect their timelines for implementing fixes.
 
 **Confirmed threats**
 
