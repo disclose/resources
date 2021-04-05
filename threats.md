@@ -1,7 +1,7 @@
 Legal Threats Against Security Researchers
 ------------------------------------------
 
-*Taken with permission for continued contribution via F/OSS contribution from [attrition.org](http://attrition.org/errata/legal_threats/).*
+*Taken with permission for continued open-source contribution from [attrition.org](http://attrition.org/errata/legal_threats/).*
 
 It has been clear for years that businesses have dropped ethics in favor of profit. Protecting the bottom line is usually more important than doing the right thing, even if it means providing a better product to their customers. Companies fear negative publicity, especially if said publicity challenges the security of their products. It doesn't matter that just about every company and product ships with numerous vulnerabilities, and adding security is a band-aid solution rather than an integral part of the development life cycle. Rather than work with researchers who are frequently providing what would otherwise be high-dollar specialized consulting for free, some companies opt to go take the muddy road and pursue legal action against the researchers. This action is one of desperation and attempts to silence and stifle legitimate research and free speech. Invariably, this ends up being a huge negative PR move, much worse than what would occur with the publication of said research without the legal murk.
 
