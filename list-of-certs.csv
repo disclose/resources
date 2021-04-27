@@ -91,7 +91,7 @@ Europe,France,FR,CERT Banque de France,https://www.first.org/members/teams/cert-
 Europe,Germany,DE,CERT-Bund,https://www.first.org/members/teams/cert-bund
 Europe,Estonia,EE,CERT Estonia,https://www.first.org/members/teams/cert-ee
 Europe,Italy,IT,CERT-ENAV,https://www.first.org/members/teams/cert-enav
-Europe,eu,Europe,Computer Emergency Response Team (CERT-EU) for the EU institutions,https://www.first.org/members/teams/cert-eu
+Europe,Europe,Europe,Computer Emergency Response Team (CERT-EU) for the EU institutions,https://www.first.org/members/teams/cert-eu
 Europe,France,FR,CERT-FR,https://www.first.org/members/teams/cert-fr
 Asia,Singapore,SG,Computer Security Incident Response Team CERT-GIB,https://www.first.org/members/teams/cert-gib
 Asia,Georgia,GE,CERT Georgia - LEPL. Data Exchange Agency (Ministry of Justice of Georgia),https://www.first.org/members/teams/cert-gov-ge
@@ -99,7 +99,7 @@ Europe,Moldova (the Republic of),MD,Cyber Security Center CERT-GOV-MD,https://ww
 Middle East,Israel,IL,Israel National Cyber Event Readiness Team,https://www.first.org/members/teams/cert-il
 Asia,India,IN,Indian Computer Emergency Response Team,https://www.first.org/members/teams/cert-in
 Europe,Iceland,IS,Computer Incident Response Team Iceland,https://www.first.org/members/teams/cert-is
-Europe,fr,France,CERT France Industries,https://www.first.org/members/teams/cert-ist
+Europe,France,FR,CERT France Industries,https://www.first.org/members/teams/cert-ist
 Europe,Italy,IT,Computer Emergency Readiness Team - Lottomatica,https://www.first.org/members/teams/cert-ltm
 Europe,Monaco,MC,CERT MONACO,https://www.first.org/members/teams/cert-mc
 Africa,Mauritius,MU,Computer Emergency Response Team of Mauritius,https://www.first.org/members/teams/cert-mu
@@ -129,7 +129,7 @@ Asia,Japan,JP,Cyber Force Center,https://www.first.org/members/teams/cfc
 Europe,Denmark,DK,Centre For Cyber Security,https://www.first.org/members/teams/cfcs-dk
 South America,Colombia,CO,Cybersecurity Government Center and Digital Security CGCSD,https://www.first.org/members/teams/cgcsd
 North America,Canada,CA,CGI Advanced Threat Management Team,https://www.first.org/members/teams/cgi_gsoc_atmo
-Asia,cn,China,China Mobile Communications Co.,https://www.first.org/members/teams/china_mobile
+Asia,China,CN,China Mobile Communications Co.,https://www.first.org/members/teams/china_mobile
 Asia,Japan,JP,Chubu Electric Power Company Group CSIRT,https://www.first.org/members/teams/chuden-csirt
 Africa,Côte d&#39;Ivoire,CI,Cote d'Ivoire Computer Emergency Response Team,https://www.first.org/members/teams/ci_cert
 Europe,Spain,ES,Cipher CERT,https://www.first.org/members/teams/cipher_cert
@@ -223,10 +223,10 @@ Africa,Ethiopia,ET,Ethiopian Cyber Emergency Readiness and Response Team,https:/
 Middle East,United Arab Emirates (the),AE,ETISALAT Computer Emergency Response,https://www.first.org/members/teams/etisalat-cert
 Europe,Spain,ES,EULEN Seguridad-CCSI-CERT,https://www.first.org/members/teams/eulen-ccsi-cert
 Europe,Spain,ES,everis CERT,https://www.first.org/members/teams/everis_cert
-Asia,cn,China,Eversec Technology Co.,https://www.first.org/members/teams/eversec
+Asia,China,CN,Eversec Technology Co.,https://www.first.org/members/teams/eversec
 Europe,Germany,DE,Evonik CERT,https://www.first.org/members/teams/evonik_cert
 North America,Canada,CA,EWA-Canada / Canadian Computer Emergency Response Team,https://www.first.org/members/teams/ewa-canada-cancert
-North America,United States of America (the),US,Ernst &amp; Young LLP,https://www.first.org/members/teams/ey
+North America,United States of America (the),US,Ernst & Young LLP,https://www.first.org/members/teams/ey
 North America,United States of America (the),US,Facebook Security Incident Response,https://www.first.org/members/teams/fb-sir
 North America,United States of America (the),US,Fidelity Intelligence Operations CERT,https://www.first.org/members/teams/fidelity_io-cert
 Europe,Russian Federation (the),RU,The Financial Sector Computer Emergency Response Team,https://www.first.org/members/teams/fincert
@@ -255,7 +255,7 @@ Asia,Hong Kong,HK,Government Computer Emergency Response Team Hong Kong,https://
 Europe,Luxembourg,LU,CERT Gouvernemental du Luxembourg,https://www.first.org/members/teams/govcert-lu
 Europe,Switzerland,CH,Hacknowledge SA,https://www.first.org/members/teams/hacknowledge
 Europe,Sweden,SE,Handelsbanken Security Incident Response Team,https://www.first.org/members/teams/handelsbanken_sirt
-Europe,no,Norway,HelseCERT,https://www.first.org/members/teams/helsecert
+Europe,Norway,NO,HelseCERT,https://www.first.org/members/teams/helsecert
 North America,United States of America (the),US,Hewlett Packard Enterprise (HPE) PSRT,https://www.first.org/members/teams/hewlett_packard_enterprise-hpe-psrt
 Asia,Japan,JP,Hitachi Incident Response Team,https://www.first.org/members/teams/hirt
 North America,Canada,CA,Hitachi Systems Security Inc,https://www.first.org/members/teams/hitachi_systems_security
@@ -326,12 +326,12 @@ Europe,Sweden,SE,LiU IRT,https://www.first.org/members/teams/liu_irt
 North America,United States of America (the),US,Lockheed Martin Computer Incident Response Team,https://www.first.org/members/teams/lm-cirt
 North America,United States of America (the),US,Lookingglass Cyber Solutions Threat Team,https://www.first.org/members/teams/lookingglass_cert
 Europe,Germany,DE,Lufthansa Group CERT,https://www.first.org/members/teams/lufthansa_group_cert
-Africa,ma,Morocco,Direction de gestion du centre de veille,https://www.first.org/members/teams/macert
+Africa,Morocco,MA,Direction de gestion du centre de veille,https://www.first.org/members/teams/macert
 South America,Ecuador,EC,MAINTLATAM CSIRT,https://www.first.org/members/teams/maintlatam_csirt
 North America,United States of America (the),US,Mandiant/FireEye,https://www.first.org/members/teams/mandiant_security
 Europe,Spain,ES,Equipo de Respuesta a incidentes de Seguridad de la Información del CCG de MAPFRE,https://www.first.org/members/teams/mapfre-ccg-cert
 Asia,Japan,JP,Mitsui Bussan Secure Directions Security Incident Response Team,https://www.first.org/members/teams/mbsd-sirt
-Asia,sg,Singapore,Ministry of Home Affairs,https://www.first.org/members/teams/mha_csc
+Asia,Singapore,SG,Ministry of Home Affairs,https://www.first.org/members/teams/mha_csc
 Europe,Austria,AT,Military Computer Emergency Readiness Team Austria,https://www.first.org/members/teams/milcert_at
 Europe,Spain,ES,Minsait CSIRT,https://www.first.org/members/teams/minsait_csirt
 Europe,Norway,NO,mnemonic Incident Response Team,https://www.first.org/members/teams/mirt
@@ -339,7 +339,7 @@ North America,United States of America (the),US,MarkMonitor,https://www.first.or
 Asia,Mongolia,MN,Mongolian Cyber Emergency Response Team / Coordination Center,https://www.first.org/members/teams/mncert-cc
 Central America,Mexico,MX,Mnemo-CERT,https://www.first.org/members/teams/mnemo-cert
 North America,United States of America (the),US,Morgan Stanley Computer Emergency Response Team,https://www.first.org/members/teams/morgan_stanley
-Asia,kr,Korea (the Republic of),Ministry Of Trade,https://www.first.org/members/teams/motie-csc
+Asia,Korea (the Republic of),KR,Ministry Of Trade,https://www.first.org/members/teams/motie-csc
 North America,United States of America (the),US,Microsoft Security Response Center Team,https://www.first.org/members/teams/mscert
 Europe,Malta,MT,Government of Malta Computer Security Incident Response Team,https://www.first.org/members/teams/mt-csirt
 Asia,Japan,JP,Mitsubishi UFJ Financial Group - CERT,https://www.first.org/members/teams/mufg-cert
@@ -422,8 +422,8 @@ Europe,Spain,ES,REPSOL CERT,https://www.first.org/members/teams/repsol_cert
 North America,United States of America (the),US,Red Hat Information Security Incident Response Team,https://www.first.org/members/teams/rh-isirt
 Europe,Switzerland,CH,Richemont CSIRT,https://www.first.org/members/teams/ric-csirt
 Asia,Japan,JP,Ricoh Product Security Incident Response Team,https://www.first.org/members/teams/ricoh_psirt
-North America,ca,Canada,Research In Motion,https://www.first.org/members/teams/rim_cs-isoc
-North America,us,United States of America (the),RiskIQ Incident,https://www.first.org/members/teams/riskiq_i3
+North America,Canada,CA,Research In Motion,https://www.first.org/members/teams/rim_cs-isoc
+North America,United States of America (the),US,RiskIQ Incident,https://www.first.org/members/teams/riskiq_i3
 North America,United States of America (the),US,Rockwell Automation CSIRT,https://www.first.org/members/teams/rockwell_automation_csirt
 Europe,Romania,RO,Agency ARNIEC RoEduNet Computer Security Incident Response Team,https://www.first.org/members/teams/rocsirt
 Europe,Russian Federation (the),RU,Computer Security Incident Response Team RU-CERT,https://www.first.org/members/teams/ru-cert
@@ -504,10 +504,10 @@ Europe,Turkey,TR,Turkcell Security Operation Center team,https://www.first.org/m
 Asia,Taiwan (Province of China),TW,Taiwan Computer Emergency Response Team/Coordination Center,https://www.first.org/members/teams/twcert-cc
 Asia,Taiwan (Province of China),TW,Taiwan Computer Security Incident Response Team,https://www.first.org/members/teams/twcsirt
 Asia,Taiwan (Province of China),TW,Taiwan National Computer Emergency Response Team,https://www.first.org/members/teams/twncert
-Africa,tz,Tanzania,TZ-CERT,United Republic of
+Africa,Tanzania,TZ,TZ-CERT,United Republic of
 North America,United States of America (the),US,UB-First,https://www.first.org/members/teams/ub-first
 Europe,Switzerland,CH,Cybercrime Intelligence &amp; Forensic Investigation,https://www.first.org/members/teams/ubs_cifi
-XK,XK,XK,Computer Emergency Response Team of UBT,https://www.first.org/members/teams/ubt-cert
+Europe,XK,Kosovo,Computer Emergency Response Team of UBT,https://www.first.org/members/teams/ubt-cert
 North America,United States of America (the),US,Unisys CERT,https://www.first.org/members/teams/ucert
 Africa,South Africa,ZA,University of Cape Town Computer Security Incident Response Team,https://www.first.org/members/teams/uct_csirt
 North America,United States of America (the),US,Unified Extensible Firmware Interface Forum Security Team,https://www.first.org/members/teams/uefi_usrt
@@ -525,7 +525,7 @@ Europe,Spain,ES,Versia-CSIRT,https://www.first.org/members/teams/versia-csirt
 Europe,Norway,NO,Visma Cyber Security Incident Response Team / Coordination Center,https://www.first.org/members/teams/visma_csirt-cc
 North America,United States of America (the),US,VMware Security Response Center,https://www.first.org/members/teams/vmware
 Asia,Vietnam,VN,VNCERT/CC,https://www.first.org/members/teams/vncert
-Europe,GB,,gb,https://www.first.org/members/teams/vodafone-certVodafone-CERT
+Europe,United Kingdom of Great Britain and Northern Ireland (the),GB,Vodafone-CERT,https://www.first.org/members/teams/vodafone-cert
 North America,United States of America (the),US,Verizon Threat Management Center,https://www.first.org/members/teams/vz-tmc
 Europe,United Kingdom of Great Britain and Northern Ireland (the),GB,The University of Warwick Computer Security Investigation and Incident Response Team,https://www.first.org/members/teams/war-csiirt
 North America,United States of America (the),US,Wells Fargo Security Operation Center(SOC),https://www.first.org/members/teams/wfc_soc
@@ -537,4 +537,4 @@ Asia,Japan,JP,Yahoo Japan Corp. Computer Security Incident Response Team,https:/
 Europe,Netherlands (the),NL,Stichting Z-CERT,https://www.first.org/members/teams/z-cert
 North America,United States of America (the),US,Zendesk,https://www.first.org/members/teams/zendesk_csirt
 Africa,Zambia,ZM,Zambia Computer Incident Response Team,https://www.first.org/members/teams/zmcirt
-Asia,China,CN</span></td>,ZTE Product Security Incident Response Team,https://www.first.org/members/teams/zte_psirt
+Asia,China,CN,ZTE Product Security Incident Response Team,https://www.first.org/members/teams/zte_psirt
