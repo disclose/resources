@@ -3,5 +3,3 @@
 # [https://github.com/disclose/research-threats](https://github.com/disclose/research-threats)
 
 We've moved this awesome collection to its very own repository!
-
-[https://github.com/disclose/research-threats](https://github.com/disclose/research-threats)
