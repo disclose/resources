@@ -10,7 +10,7 @@ http://gogl.com
 http://h20565.www2.hpe.com/portal/site/hpsc/public/kb/secBullArchive
 http://networks.nokia.com/responsible-disclosure
 http://nginx.org/en/security_advisories.html
-http://pastebin.com
+https://pastebin.com/doc_security_disclosure
 http://pivotal.io/security
 http://research.magix.com/
 http://support.apple.com/kb/HT1318
