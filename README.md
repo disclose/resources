@@ -6,7 +6,7 @@ These collections are community-powered and open source, so contributions or cor
 
 ### [Bug Bounty Platforms List](https://github.com/disclose/bug-bounty-platforms)
 
-A list of all known vulnerability disclosure and **bug bounty platforms**. This has been moved to it's own repo!
+A list of all known vulnerability disclosure and **bug bounty platforms**. This has been moved to its own repo!
 
 ### [Global list of Computer Emergency Response Teams (CERTs)](https://github.com/disclose/tools-and-data/blob/master/list-of-certs.csv)
 
@@ -14,7 +14,7 @@ A list of the contact details and URLs for **CERTs from around the world**.
 
 ### [Research Threats (Legal Threats Made Again Security Researchers)](https://github.com/disclose/research-threats)
 
-A living document of **legal threats against security researchers**. This has been moved to it's own repo!
+A living document of **legal threats against security researchers**. This has been moved to its own repo!
 
 ### [List of US State and Federal anti-hacking laws](https://github.com/disclose/resources)
 
