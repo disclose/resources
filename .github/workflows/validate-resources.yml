@@ -1,0 +1,39 @@
+name: Validate resources
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  validate-csv:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate CSV files
+        run: |
+          python3 - <<'PY'
+          import csv
+          import glob
+          import sys
+
+          failed = False
+          for path in sorted(glob.glob('*.csv')):
+              with open(path, newline='', encoding='utf-8-sig') as fh:
+                  rows = list(csv.reader(fh))
+
+              data_rows = [row for row in rows if row and not row[0].lstrip().startswith('#')]
+              if not data_rows:
+                  print(f'{path}: ok (comment/notice file)')
+                  continue
+
+              expected = len(data_rows[0])
+              bad = [(idx + 1, len(row)) for idx, row in enumerate(rows) if row and not row[0].lstrip().startswith('#') and len(row) != expected]
+              if bad:
+                  failed = True
+                  print(f'{path}: inconsistent column count; expected {expected}, bad rows: {bad[:10]}')
+              else:
+                  print(f'{path}: ok ({len(data_rows)} data rows, {expected} columns)')
+
+          if failed:
+              sys.exit(1)
+          PY
